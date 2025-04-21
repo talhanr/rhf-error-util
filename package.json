@@ -31,6 +31,19 @@
         "form-hook",
         "validation-error"
     ],
+    "files": [
+        "dist",
+        "README.md",
+        "LICENSE"
+    ],
     "author": "Talha Nazir",
-    "license": "MIT"
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/talhanr/rhf-error-util.git"
+    },
+    "bugs": {
+        "url": "https://github.com/talhanr/rhf-error-util/issues"
+    },
+    "homepage": "https://github.com/talhanr/rhf-error-util#readme"
 }
